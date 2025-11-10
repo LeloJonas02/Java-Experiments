@@ -9,3 +9,6 @@ let myNumber = 42;
 6 >= 6; // true; 6 is greater than or equal to 6
 
 console.log(`5 * 4 = ${5 * 4}`);
+
+String(123);
+`${123}`;
