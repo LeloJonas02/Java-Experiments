@@ -7,3 +7,5 @@ let myNumber = 42;
 7 === 7; // true; 7 is strictly equal to 7 (same value and type)
 4 !== 9; // true; 4 is not equal to 9 
 6 >= 6; // true; 6 is greater than or equal to 6
+
+console.log(`5 * 4 = ${5 * 4}`);
