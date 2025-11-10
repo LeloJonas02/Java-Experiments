@@ -13,3 +13,4 @@ console.log(`5 * 4 = ${5 * 4}`);
 String(123);
 `${123}`;
 
+(true && false) || !false;
